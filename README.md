@@ -1,4 +1,3 @@
 # AI
-- ml 알고리즘 연습
-- ml 이론정리
-- 캐글 대회 연습
+- HuggingFace Cookbook project
+- studying...
